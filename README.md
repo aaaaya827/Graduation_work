@@ -63,7 +63,7 @@
 ・「いいね」機能 →Ajaxを使って非同期で「いいね」操作を行う予定です。
 
 ### 画面遷移図
-Figma：https://www.figma.com/design/6CU6jzzKYd59Znvg3OahR7/%E7%84%A1%E9%A1%8C?node-id=0-1&t=XukU899IzSexDKHo-1
+Figma：https://www.figma.com/design/uqE5dc2VL1ivu5E2gZt7nz/%E7%84%A1%E9%A1%8C?node-id=0-1&t=jUwmAMrSuvQcbNtz-0
 
 ### READMEに記載した機能
 - [✔️] ユーザー登録機能
