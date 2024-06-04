@@ -80,6 +80,3 @@ Figma：https://www.figma.com/design/uqE5dc2VL1ivu5E2gZt7nz/%E7%84%A1%E9%A1%8C?n
 直接変更できるものではなく、一旦メールなどを介して専用のページで変更する画面遷移になっているか？
 - [✔️] メールアドレス
 - [✔️] パスワード
-
-### ER図
-draw.io: https://app.diagrams.net/#G1eJYV-p0KsjKcF_6hnjYW4nF3lQOqwGLV#%7B%22pageId%22%3A%22V55MkiTYBS72RFE8_Y64%22%7D
