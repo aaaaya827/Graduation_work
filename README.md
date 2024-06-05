@@ -82,4 +82,4 @@ Figma：https://www.figma.com/design/uqE5dc2VL1ivu5E2gZt7nz/%E7%84%A1%E9%A1%8C?n
 - [✔️] パスワード
 
 ### ER図
-[![Image from Gyazo](https://i.gyazo.com/70a3a385dcacdff2b7c0cf8b3bd31b96.png)](https://gyazo.com/70a3a385dcacdff2b7c0cf8b3bd31b96)
+[![Image from Gyazo](https://i.gyazo.com/8aeb141fdf7bf916c98d0142d2026fe4.png)](https://gyazo.com/8aeb141fdf7bf916c98d0142d2026fe4)
